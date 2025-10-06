@@ -1,0 +1,21 @@
+Columna1	Columna2	Columna3	Columna4	Columna5	Columna6	Columna7
+Item	Quantity	Reference	Part	Description	MNF	MPN
+1	1	C1	10uF	Samsung Electro-Mechanics	Samsung Electro-Mechanics	Samsung Electro-Mechanics
+2	1	C3	 22uF	10V 22uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS	YAGEO	CC0603MRX5R6BB226
+3	1	C4	22nF	22nF 25V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS	YAGEO	CC0603KRX7R8BB223
+4	1	C5	0.1uF	100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS	YAGEO	CC0603KRX7R9BB104
+5	2	C6,C7	22uF	10V 22uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS	YAGEO	CC0603MRX5R6BB226
+6	1	D2	LED_Red	-40?~+85? 120° 2.4V 20mA 300mcd 40mW 615nm~630nm 645nm Red Water Clear 0603 LED Indication - Discrete ROHS	Hubei KENTO Elec	KT-0603R
+7	1	L1	6.8uH	2.5A 2.9A 43mO 6.8uH Magnetic Shielded Inductor ±20% SMD,5x5mm Power Inductors ROHS	CENKER	CKCS5040-6.8uH/M
+8	1	R3	1k	-55?~+155? 1kO 50V 62.5mW Thick Film Resistor ±100ppm/? ±5% 0402 Chip Resistor - Surface Mount ROHS	YAGEO	RC0402JR-071KL
+9	2	R4,R9	100k	-55?~+155? 100kO 50V 62.5mW Thick Film Resistor ±100ppm/? ±5% 0402 Chip Resistor - Surface Mount ROHS	YAGEO	RC0402JR-07100KL
+10	1	R5	 10k	-55?~+155? 10kO 50V 62.5mW Thick Film Resistor ±100ppm/? ±5% 0402 Chip Resistor - Surface Mount ROHS	YAGEO	RC0402JR-0710KL
+11	1	R6	 90.9k	-55?~+155? 50V 62.5mW 90.9kO Thin Film Resistor ±0.5% ±50ppm/? 0402 Chip Resistor - Surface Mount ROHS	YAGEO	RT0402DRE0790K9L
+12	1	R7	10k	-55?~+155? 10kO 50V 62.5mW Thick Film Resistor ±100ppm/? ±5% 0402 Chip Resistor - Surface Mount ROHS	YAGEO	RC0402JR-0710KL
+13	2	R8,R12	75	-55?~+155? 2.26kO 50V 62.5mW Thick Film Resistor ±1% ±100ppm/? 0402 Chip Resistor - Surface Mount ROHS	YAGEO	AC0402FR-072K26L
+14	2	R10,R11	100	-55?~+155? 100O 50V 62.5mW Thick Film Resistor ±1% ±100ppm/? 0402 Chip Resistor - Surface Mount ROHS	YAGEO	RC0402FR-07100RL
+15	1	U3	Bat	1 1x2P 2 2P 2mm PH Through Hole Plugin,P=2mm Wire To Board Connector ROHS	BOOMELE(Boom Precision Elec)	PH-2A
+16	1	U4	MP2338	-40?~+125? 1 160uA 3A 4.5V~28V 450kHz 500mV~16V Adjustable Buck Buck Built-In Yes SOT-583 DC-DC Converters ROHS	Monolithic Power Systems	MP2338GTL-Z
+17	1	U6	USB_OUT	1 4P Female Type-A USB 2.0 SMD USB Connectors ROHS	SOFNG	USB-302S-T
+18	1	U7	MicroUSB_IN	-30?~+80? 1 3,000 Cycles 5P Black Female Micro-B Surface Mount, Right Angle USB 2.0 SMD USB Connectors ROHS	SHOU HAN	MicroQTJ
+19	1	U8	MCP73213	-40?~+85? 1.1A 2 4V~16V 50uA 8.2V Linear Charging IC Lithium-ion/Polymer DFN-10(3x3) Battery Management ROHS	Microchip Tech	MCP73213-B6SI/MF

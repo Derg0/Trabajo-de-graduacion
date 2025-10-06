@@ -32,4 +32,3 @@ El **PCB de alimentación** se diseñó para ser **mecánicamente compatible** c
 
 - `/Schematics/` → Archivos esquemáticos del circuito (MCP73213 y MP2338)  
 - `/PCB_Layout/` → Archivos de diseño del PCB (formato Gerber, Drill, etc.)  
-
