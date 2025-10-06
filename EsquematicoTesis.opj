@@ -1,0 +1,173 @@
+(ExpressProject "EsquematicoTesis"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 S005 (4301626)  [6/2/2025]-[09/14/25]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "C:\Cadence\OrCADX_24.1\tools\capture\library\TP4056.OLB"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "C:\Users\dergo\Desktop\Tesis\Esquematico")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\esquematicotesis.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File"
+       "c:/users/dergo/desktop/tesis/esquematico/esquematicotesis.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout"
+    (File "c:\users\dergo\desktop\tesis\esquematico\esquematicotesis.brd"
+      (Type "Board File")
+      (OutputBoard
+         "c:\users\dergo\desktop\tesis\esquematico\esquematicotesis.brd")
+      (NetListPath "C:\Users\dergo\Desktop\Tesis\Esquematico")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (Sort User)
+    (File ".\ESQUEMATICOTESIS_OUTPUT\BOM.SCH.CSV"
+      (Type "Report")
+      (DisplayName ".\ESQUEMATICOTESIS_OUTPUT\BOM.SCH.CSV"))
+    (File "c:\users\dergo\desktop\tesis\esquematico\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "c:\users\dergo\desktop\tesis\esquematico\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "c:\users\dergo\desktop\tesis\esquematico\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (Folder "Logs"
+    (File "c:\users\dergo\desktop\tesis\esquematico\netlist.log"
+      (Type "Log File")
+      (LogFile "C:\Users\dergo\Desktop\Tesis\Esquematico\netlist.log"))
+    (File "c:\users\dergo\desktop\tesis\esquematico\netrev.lst"
+      (Type "Log File")
+      (LogFile "C:\Users\dergo\Desktop\Tesis\Esquematico\netrev.lst"))
+    (File "c:\users\dergo\desktop\tesis\esquematico\eco.txt"
+      (Type "Log File")
+      (LogFile "C:\Users\dergo\Desktop\Tesis\Esquematico\eco.txt")))
+  (MPSSessionName "dergo")
+  (PartMRUSelector
+    (MH
+      (FullPartName "MH.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\TP4056.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (MCP73213
+      (FullPartName "MCP73213.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\TP4056.OLB")
+      (DeviceIndex "0"))
+    ("DIODE SCHOTTKY"
+      (FullPartName "DIODE SCHOTTKY.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MicroUSB
+      (FullPartName "MicroUSB.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\TP4056.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (USB
+      (FullPartName "USB.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\TP4056.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MP2338
+      (FullPartName "MP2338.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\TP4056.OLB")
+      (DeviceIndex "0"))
+    (PH2A
+      (FullPartName "PH2A.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\TP4056.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (TP4056
+      (FullPartName "TP4056.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\TP4056.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\OrCADX_24.1\tools\capture\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "C:\Cadence\OrCADX_24.1\tools\capture\library\TP4056.OLB")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 605"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1290 24 623")
+        (Scroll "146 45")
+        (Zoom "152")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DERGO\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\ESQUEMATICOTESIS\ESQUEMATICOTESIS.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 623")
+        (Scroll "-141 13")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DERGO\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\ESQUEMATICOTESIS\ESQUEMATICOTESIS.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2")))
+  (ISPCBBASICLICENSE "false"))
